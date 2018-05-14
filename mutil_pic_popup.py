@@ -3,7 +3,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2 as cv
 
-
+"""
+分别使用opencv和matplot在
+同一个窗体中展示多个图片
+"""
 
 
 def opecv_multi_pic():
