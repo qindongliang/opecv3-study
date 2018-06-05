@@ -15,13 +15,13 @@ opencv3相关学习的一些例子和工具
 
 详细介绍连接：<http://8090nixi.com/posts/2018/05/30/windows-10%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Tesseract-OCR%E4%B8%8Epython%E9%9B%86%E6%88%90.html>
 
+（4）关于opencv图片颜色不能正常在matplotlib中显示的问题（plot_show_multi.py）
+
 ## 博客相关
 
 （1）[微信公众号（woshigcs）：同步更新](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
 
 （2）[个人站点(2018之后，同步更新）](http://8090nixi.com/) 
-
-（3）[腾讯云社区，自动同步公众号文章](<http://qindongliang.iteye.com/>)
 
 （4）[csdn ： (暂时同步更新)](https://blog.csdn.net/u010454030)
 
@@ -35,6 +35,8 @@ opencv3相关学习的一些例子和工具
 
 ## 我的公众号(woshigcs)
 
-有问题可关注我的公众号留言咨询
-
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
+
+## 知识星球
+
+![image](http://dl2.iteye.com/upload/attachment/0129/9751/e6046a0e-bc81-3f0a-9940-8621b067b83f.jpeg)
