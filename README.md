@@ -19,17 +19,9 @@ opencv3相关学习的一些例子和工具
 
 ## 博客相关
 
-（1）[微信公众号（woshigcs）：同步更新](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
+（1）[个人站点(2018之后，同步更新）](http://8090nixi.com/) 
 
-（2）[个人站点(2018之后，同步更新）](http://8090nixi.com/) 
-
-（3）[csdn ： (暂时同步更新)](https://blog.csdn.net/u010454030)
-
-（4）[iteye（2018.05月之前所有的文章，之后弃用）](<http://qindongliang.iteye.com/>)  
-
-
-
-
+（2）[iteye博客](<http://qindongliang.iteye.com/>)  
 
 
 
@@ -37,6 +29,4 @@ opencv3相关学习的一些例子和工具
 
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
 
-## 知识星球
-
-![image](http://dl2.iteye.com/upload/attachment/0129/9751/e6046a0e-bc81-3f0a-9940-8621b067b83f.jpeg)
+ 
